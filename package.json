@@ -1,8 +1,8 @@
 {
-  "name": "mask",
+  "name": "moo-ng-mask",
   "version": "3.0.16",
   "description": "Best ngMask",
-  "main": "Gruntfile.js",
+  "main": "dist/ngMask.js",
   "devDependencies": {
     "bump": "~0.2.5",
     "glob": "~4.0.2",
